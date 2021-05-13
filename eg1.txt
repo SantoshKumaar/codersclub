@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Example</title>
+<style>
+h1{
+color:blue;
+}
+</style>
+</head>
+<body>
+<h1>Automobiles</h1>
+<table>
+<caption>Cars and Bikes</caption>
+<thead>
+<tr>
+<th>Cars</th>
+<th>Bikes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>xuv500</td>
+<td>RR310</td>
+<td>Cla</td>
+<td>1250gs</td>
+</tbody>
+<h1>About us</h1>
+</body>
+</html>
+
+
+
+
